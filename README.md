@@ -18,7 +18,6 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
     <td align="center">💻 Linguagens</td>
     <td align="center">⚙️ Frameworks</td>
     <td align="center">🛠️ Ferramentas</td>
-    <td align="center">🚀 DevOps</td>
     <td align="center">🗄️ Banco de Dados</td>
   </tr>
 
